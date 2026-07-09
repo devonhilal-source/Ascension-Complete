@@ -1,0 +1,6 @@
+{
+  "name": "Ascension RPG",
+  "description": "A sophisticated dark, gold-accented RPG gamified tracker for habits, quests, skills, and personal attributes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
